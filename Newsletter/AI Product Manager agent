@@ -1,0 +1,44 @@
+# 10-Step Guide to Building Your PM AI Copilot
+## Step 1: Set up a persistent project with context
+Create a memory-enabled thread in your preferred AI tool (ChatGPT, Claude, Gemini)
+Add real context about your company, product, users, team, and past performance reviews
+Use specific prompts that make the AI feel like a team member rather than a random assistant
+Step 2: Analyze qualitative feedback using real user data
+Export user feedback (app store reviews, surveys) as a CSV
+Ask AI to extract themes with exact quotes and data-backed clusters
+Challenge the AI by asking what it might have missed to ensure comprehensive analysis
+Step 3: Preserve user voice with real quotes
+Avoid over-summarization by requesting raw, unfiltered language from users
+Request exact quotes with ratings attached to maintain emotional tone and specific phrasing
+Focus on understanding pain points in the users' own words rather than abstractions
+Step 4: Use AI to audit your calendar and time allocation
+Upload calendar screenshots to your AI copilot
+Ask for analysis of time spent, patterns, and inefficiencies
+Request visualizations like pie charts to identify time drains and gather data for discussions with management
+Step 5: Add rigor to decisions like A/B testing
+Teach your copilot your decision frameworks by feeding it your methodology
+Ask AI to create decision trees for evaluating new features
+Use the AI to apply consistent logic when making complex decisions
+Step 6: Simulate hard conversations before you have them
+Describe upcoming difficult conversations in a casual, conversational way
+Use role-playing with AI to practice both sides of challenging discussions
+Pay attention to tone, phrasing, and emotional dynamics during simulations
+Step 7: Teach your AI to explain technical concepts simply
+Ask your copilot to explain complex technical topics in plain language
+Request the AI to quiz you to verify understanding
+Ask for examples relevant to your job to make abstract concepts practical
+Step 8: Use live documentation during meetings
+Document next steps in real-time during meetings rather than waiting until after
+Use AI to organize rough meeting notes into clear action items
+Share updated plans directly in communication channels to demonstrate organization
+Step 9: Record short Looms to reduce meetings
+Create brief (<1 minute) video explanations instead of scheduling meetings
+Use Loom for product changes, technical handoffs, or cross-functional decisions
+Utilize Loom AI to enhance videos with additional context or markers
+Step 10: Build a habit of product scrapbooking
+Continuously collect user feedback, support tickets, and relevant conversations in Notion
+Create dedicated pages for feature ideas, pain points, and user behavior patterns
+Use Notion AI search to query your growing database of insights when needed
+
+
+
